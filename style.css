@@ -9,6 +9,7 @@ h1{
 #main-header {font-size :22px;
   /* Your code here! */
   color:red;
+  align-content: center;
 }
 div {
 width:900px;
