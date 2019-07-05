@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color:red;
+}
+#main-header {font-size :22px;
+  /* Your code here! */
+  color:red;
+  align-content: center;
+}
+div {
+width:900px;
+margin:auto;
+font-family:"Helvetica Neue";
+background:white;
+padding:60px; /* Your code here! */
+}
+nav{
+  
+}
