@@ -10,3 +10,10 @@ h1{
   /* Your code here! */
   color:red;
 }
+div {
+width:700px;
+margin:auto;
+font-family:"Helvetica Neue";
+background:white;
+padding:30px; /* Your code here! */
+}
